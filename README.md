@@ -1,2 +1,2 @@
 
-kevinsterne.github.io
+kevinsterne.github.io/lefawnmagazine
