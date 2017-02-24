@@ -21,3 +21,13 @@ background-color: white;
 	font-size: 64px;
 }
 	
+.resize {
+    width: 400px;
+    height: auto;
+}
+
+.resize {
+    width: 300px;
+    height: auto;
+}
+
