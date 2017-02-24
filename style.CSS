@@ -22,9 +22,9 @@ background-color: white;
 }
 	
 .resize {
-    width: 20px;
-    height: 30px;
+    height: auto; 
+    width: auto; 
+    max-width: 30px; 
+    max-height: 30px;
 }
-
-
 
